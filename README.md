@@ -114,4 +114,4 @@ This project was developed with **AI-assisted programming**, directed, tested, a
 
 ## License
 
-**No open-source license has been selected yet.** Until one is added, the source is publicly viewable on GitHub, but that does not automatically grant others permission to redistribute or modify it. If you want to encourage contributions and reuse, add an appropriate `LICENSE` file after reviewing any third-party licensing obligations.
+**No open-source license has been selected yet.** Until one is added, the source is publicly viewable on GitHub, but that does not automatically grant others permission to redistribute or modify it.
